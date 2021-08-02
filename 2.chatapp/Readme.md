@@ -1,20 +1,23 @@
-![Test](https://cdn.discordapp.com/attachments/826113544021082143/870984736753995806/codejam.png)
+![Title Image](https://cdn.discordapp.com/attachments/826113544021082143/871687752394113034/codejam1.png)
 
 # Bernerdev Codejam
 
 
 ## Topic and task
 
-> Create a working chatapp. 
-
+> Create a working "online-shop". 
+```
 - store passwords and userdata
-- don't store messages
--  if a user fails three times giving in a password, his account will be suspended.
-- The type of chats are private chats. Group chats are optional.
+- store articles
+- if a user fails three times giving in a password, his account will be suspended.
+- The more features implemented from the real Ebay, the more points you get.
+```
 
+## Instructions
+The app is supposed to be modeled after Ebay, but not an exact clone. Please, be creative, think about one or the other gimmick, which brings a smile to your face. 
 
 ## Deadline
-> 10. August 2021, 12:00  CEST
+> 8. August 2021, 12:00  CEST
 
 ## Rules
 - No remotedatabases (only sqlite, or other local storage formats)
