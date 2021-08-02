@@ -15,6 +15,7 @@
 
 ## Instructions
 The app is supposed to be modeled after Ebay, but not an exact clone. Please, be creative, think about one or the other gimmick, which brings a smile to your face. 
+This time all possible libraries are allowed.
 
 ## Deadline
 > 8. August 2021, 12:00  CEST
