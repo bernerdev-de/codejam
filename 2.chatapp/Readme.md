@@ -18,10 +18,10 @@ The app is supposed to be modeled after Ebay, but not an exact clone. Please, be
 This time all possible libraries are allowed.
 
 ## Deadline
-> 8. August 2021, 12:00  CEST
+> ~~8. August 2021, 12:00  CEST~~ 11. August 2021 23:59:59 CEST
 
 ## Rules
-- No remotedatabases (only sqlite, or other local storage formats)
+- ~~No remotedatabases (only sqlite, or other local storage formats)~~
 - Use only your own code(except libraries of course.)
 
 ## Organizer
@@ -32,7 +32,7 @@ This codejam is organized by bernerdev. If you want to take part in future jams,
 
 ### Are there any prices?
 
-No, that is not planned at the moment.
+No, that is not planned at the moment.~~
 
 ### How are the projects evaluated?
 
